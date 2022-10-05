@@ -1,16 +1,22 @@
-### Hi there 👋
+## Olá! Eu sou Evaldo Júnior👋
 
-<!--
-**underlinejunior/underlinejunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=underlinejunior&show_icons=true&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=underlinejunior&layout=compact&theme=merko"/>
+</div>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning flutter
+- 📫 How to reach me: e.junior123@gmail.com
+- 😄 Pronouns: he/his
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### 🔧 **my skills:**
+<div style="display:inline-block">
+   <img align="center" height="40" alt="Evaldo.html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="center" height="40" alt="Evaldo.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="center" height="40" alt="Evaldo.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" height="40" alt="Evaldo.react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="center" height="40" alt="Evaldo.typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img align="center" height="40" alt="Evaldo.flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+   <img align="center" height="40 alt="Evaldo.node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
+  </div>       
