@@ -1,4 +1,4 @@
-## Olá! Eu sou Evaldo Júnior👋
+## Olá! I am Evaldo Júnior👋
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=underlinejunior&show_icons=true&theme=merko"/>
