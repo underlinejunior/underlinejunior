@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me: e.junior123@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he / his
 
  ### 🔧 **my skills:**
 <div style="display:inline-block">
@@ -18,5 +18,6 @@
    <img align="center" height="40" alt="Evaldo.typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    <img align="center" height="40" alt="Evaldo.flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
    <img align="center" height="40 alt="Evaldo.node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="center" height="40 alt="Evaldo.java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />                                                                                                                                       
           
   </div>       
