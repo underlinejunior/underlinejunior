@@ -18,8 +18,5 @@
    <img align="center" height="40" alt="Evaldo.typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    <img align="center" height="40" alt="Evaldo.flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
    <img align="center" height="40 alt="Evaldo.node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" height="40 alt="Evaldo.java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />                                                                                                                                       
-          
-  </div>       
-  ![snake gif](https://github.com/underlinejunior/underlinejunior/blob/output/github-contribution-grid-snake.svg)
-<img src="https://github.com/underlinejunior/underlinejunior/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+   <img align="center" height="40 alt="Evaldo.java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
+  </div> 
